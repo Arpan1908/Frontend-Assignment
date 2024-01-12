@@ -1,0 +1,5 @@
+body{
+  background: linear-gradient(to right, #000000, #4f0165);
+  transition: background-color 0.3s ease;
+}
+
